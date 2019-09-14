@@ -1,0 +1,11 @@
+{
+  "name": "video-app",
+  "version": "1.0.0",
+  "description": "This project is using NodeJS, pure javascript MongoDB and Express",
+  "main": "index.js",
+  "author": "Yoosoo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
